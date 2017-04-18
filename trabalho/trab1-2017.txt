@@ -36,3 +36,5 @@ Extrair todos os enderecos IP dos arquivos
 que começam com "access.log" imprimindo um endereço IP por linha.
 Resposta: 
 
+8 - listar o conteudo de seu diretorio e direcionar a saida 
+para o primeiro arquivo do item 4.
